@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "id": "rpg_ttw",
+  "version": "${version}",
+  "name": "Rpg Tools&Tiers&Weapons (Myth & Kingdom Series)",
+  "description": "This Mod Add Rpg tools weapons and armor in new tiers to replace the basics one's on the game.",
+  "authors": [
+    "Whit3mar3"
+  ],
+  "contact": {
+    "repo": "https://github.com/braya/untitled"
+  },
+  "license": "All-Rights-Reserved",
+  "icon": "assets/rpg_ttw/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "client": [
+      "net.whit3mar3.rpg_ttw.mixin.Rpg_ttwClient"
+    ],
+    "main": [
+      "net.whit3mar3.rpg_ttw.mixin.Rpg_ttw"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}

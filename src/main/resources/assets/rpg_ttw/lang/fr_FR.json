@@ -1,0 +1,17 @@
+{
+  "item.rpg_ttw.platinum_ingot":"Lingot de Platine",
+  "item.rpg_ttw.rpg_ttw.platinum_scrap":"Fragment de Platine",
+
+
+  "item.rpg_ttw.platinum_sword":"Epée en Platine",
+  "item.rpg_ttw.platinum_pickaxe":"Pioche en Platine",
+  "item.rpg_ttw.platinum_shovel":"Pelle en Platine",
+  "item.rpg_ttw.platinum_axe":"Hache en Platine",
+  "item.rpg_ttw.platinum_hoe":"Houe en Platine",
+  "item.rpg_ttw.platinum_helmet":"Casque en Platine",
+  "item.rpg_ttw.platinum_chestplate":"Plastron en Platine",
+  "item.rpg_ttw.platinum_leggings":"Jambiere en Platine",
+  "item.rpg_ttw.platinum_boots":"Botte en Platine",
+
+  "itemGroup.rpg_ttw.platinum": "Myth&Kingdom"
+}

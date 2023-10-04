@@ -1,0 +1,17 @@
+{
+  "item.rpg_ttw.platinum_ingot":"Platinum Ingot",
+  "item.rpg_ttw.platinum_scrap": "Platinum Scrap",
+
+  "item.rpg_ttw.platinum_sword":"Platinum Sword",
+  "item.rpg_ttw.platinum_pickaxe":"Platinum Pickaxe",
+  "item.rpg_ttw.platinum_shovel":"Platinum Shovel",
+  "item.rpg_ttw.platinum_axe":"Platinum Axe",
+  "item.rpg_ttw.platinum_hoe":"Platinum Hoe",
+  "item.rpg_ttw.platinum_helmet":"Platinum Helmet",
+  "item.rpg_ttw.platinum_chestplate":"Platinum Chestplate",
+  "item.rpg_ttw.platinum_leggings":"Platinum Leggings",
+  "item.rpg_ttw.platinum_boots":"Platinum Boots",
+
+
+  "itemGroup.rpg_ttw.rpg_ttw": "Myth&Kingdom"
+}
