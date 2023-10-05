@@ -1,6 +1,12 @@
 {
   "item.rpg_ttw.platinum_ingot":"Lingot de Platine",
-  "item.rpg_ttw.rpg_ttw.platinum_scrap":"Fragment de Platine",
+  "item.rpg_ttw.platinum_scrap":"Fragment de Platine",
+  "item.rpg_ttw.fabric": "Morceau de Tissu",
+  "item.rpg_ttw.dragon_claw": "Griffe de Dragon",
+  "item.rpg_ttw.dragon_scale": "Écaille de Dragon",
+  "item.rpg_ttw.warden_shell": "Carapace de Warden",
+  "item.rpg_ttw.warden_crystal": "Crystale de Warden",
+  "item.rpg_ttw.divinium": "Divinium",
 
 
   "item.rpg_ttw.platinum_sword":"Epée en Platine",
