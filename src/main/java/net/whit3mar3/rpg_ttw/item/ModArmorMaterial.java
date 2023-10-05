@@ -32,10 +32,6 @@ public enum ModArmorMaterial implements ArmorMaterial {
     });
 
 
-
-
-
-
     private static final int[] BASE_DURABILITY = new int[]{13, 15, 16, 11};
     private final String name;
     private final int durabilityMultiplier;
