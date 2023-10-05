@@ -1,6 +1,7 @@
 {
   "parent" : "item/generated",
   "textures": {
-      "layer0": "rpg_ttw:item/platinum_leggings"
+      "layer0": "rpg_ttw:item/warden_sword"
   }
 }
+
