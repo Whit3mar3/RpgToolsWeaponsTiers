@@ -11,8 +11,6 @@ public class ModItems {
 
 
     //Items
-    public static final Item FABRIC = registerItem("fabric",
-            new Item(new FabricItemSettings().group(ModItemGroup.RPG_TTW)));
     public static final Item DRAGON_SCALE = registerItem("dragon_scale",
             new Item(new FabricItemSettings().group(ModItemGroup.RPG_TTW)));
     public static final Item DRAGON_CLAW = registerItem("dragon_claw",
@@ -30,6 +28,14 @@ public class ModItems {
 
 //Tools
 
+    public static final Item COOPER_SWORD = registerItem("copper_sword",
+            new SwordItem(ModToolMaterial.COOPER, 2, 2f, new FabricItemSettings().group(ModItemGroup.RPG_TTW)));
+    public static final Item COOPER_PICKAXE = registerItem("copper_pickaxe",
+            new PickaxeItem(ModToolMaterial.COOPER, 1, 1f, new FabricItemSettings().group(ModItemGroup.RPG_TTW)));
+    public static final Item COOPER_SHOVEL = registerItem("copper_shovel",
+            new ShovelItem(ModToolMaterial.COOPER, 1, 1f, new FabricItemSettings().group(ModItemGroup.RPG_TTW)));
+    public static final Item COOPER_AXE = registerItem("copper_axe",
+            new AxeItem(ModToolMaterial.COOPER, 1, 1f, new FabricItemSettings().group(ModItemGroup.RPG_TTW)));
 
     public static final Item DRAGON_SWORD = registerItem("dragon_sword",
             new SwordItem(ModToolMaterial.DRAGON_CLAW, 2, 2f, new FabricItemSettings().group(ModItemGroup.RPG_TTW)));
@@ -68,14 +74,15 @@ public class ModItems {
             new AxeItem(ModToolMaterial.DIVINIUM, 1, 1f, new FabricItemSettings().group(ModItemGroup.RPG_TTW)));
 
 //Armors
-public static final Item FABRIC_HELMET = registerItem("fabric_helmet",
-        new ArmorItem(ModArmorMaterial.DRAGON_SCALE, EquipmentSlot.HEAD,new FabricItemSettings().group(ModItemGroup.RPG_TTW)));
-    public static final Item FABRIC_CHESTPLATE = registerItem("fabric_chestplate",
-            new ArmorItem(ModArmorMaterial.DRAGON_SCALE, EquipmentSlot.CHEST,new FabricItemSettings().group(ModItemGroup.RPG_TTW)));
-    public static final Item FABRIC_LEGGINGS = registerItem("fabric_leggings",
-            new ArmorItem(ModArmorMaterial.DRAGON_SCALE, EquipmentSlot.LEGS,new FabricItemSettings().group(ModItemGroup.RPG_TTW)));
-    public static final Item FABRIC_BOOTS = registerItem("fabric_boots",
-            new ArmorItem(ModArmorMaterial.DRAGON_SCALE, EquipmentSlot.FEET,new FabricItemSettings().group(ModItemGroup.RPG_TTW)));
+
+    public static final Item COPPER_HELMET = registerItem("copper_helmet",
+        new ArmorItem(ModArmorMaterial.COPPER, EquipmentSlot.HEAD,new FabricItemSettings().group(ModItemGroup.RPG_TTW)));
+    public static final Item COPPER_CHESTPLATE = registerItem("copper_chestplate",
+            new ArmorItem(ModArmorMaterial.COPPER, EquipmentSlot.CHEST,new FabricItemSettings().group(ModItemGroup.RPG_TTW)));
+    public static final Item COPPER_LEGGINGS = registerItem("copper_leggings",
+            new ArmorItem(ModArmorMaterial.COPPER, EquipmentSlot.LEGS,new FabricItemSettings().group(ModItemGroup.RPG_TTW)));
+    public static final Item COPPER_BOOTS = registerItem("copper_boots",
+            new ArmorItem(ModArmorMaterial.COPPER, EquipmentSlot.FEET,new FabricItemSettings().group(ModItemGroup.RPG_TTW)));
 
     public static final Item DRAGON_HELMET = registerItem("dragon_helmet",
         new ArmorItem(ModArmorMaterial.DRAGON_SCALE, EquipmentSlot.HEAD,new FabricItemSettings().group(ModItemGroup.RPG_TTW)));

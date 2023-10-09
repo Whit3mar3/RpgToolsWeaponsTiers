@@ -8,6 +8,36 @@
   "item.rpg_ttw.warden_crystal": "Warden Crystal",
   "item.rpg_ttw.divinium": "Divinium",
 
+  "item.rpg_ttw.copper_sword":"Copper Sword",
+  "item.rpg_ttw.copper_pickaxe":"Copper Pickaxe",
+  "item.rpg_ttw.copper_shovel":"Copper Shovel",
+  "item.rpg_ttw.copper_axe":"Copper Axe",
+  "item.rpg_ttw.copper_hoe":"Copper Hoe",
+  "item.rpg_ttw.copper_helmet":"Copper Helmet",
+  "item.rpg_ttw.copper_chestplate":"Copper Chestplate",
+  "item.rpg_ttw.copper_leggings":"Copper Leggings",
+  "item.rpg_ttw.copper_boots":"Copper Boots",
+
+  "item.rpg_ttw.dragon_sword":"Dragon Sword",
+  "item.rpg_ttw.dragon_pickaxe":"Dragon Pickaxe",
+  "item.rpg_ttw.dragon_shovel":"Dragon Shovel",
+  "item.rpg_ttw.dragon_axe":"Dragon Axe",
+  "item.rpg_ttw.dragon_hoe":"Dragon Hoe",
+  "item.rpg_ttw.dragon_helmet":"Dragon Helmet",
+  "item.rpg_ttw.dragon_chestplate":"Dragon Chestplate",
+  "item.rpg_ttw.dragon_leggings":"Dragon Leggings",
+  "item.rpg_ttw.dragon_boots":"Dragon Boots",
+
+  "item.rpg_ttw.warden_sword":"Warden Sword",
+  "item.rpg_ttw.warden_pickaxe":"Warden Pickaxe",
+  "item.rpg_ttw.warden_shovel":"Warden Shovel",
+  "item.rpg_ttw.warden_axe":"Warden Axe",
+  "item.rpg_ttw.warden_hoe":"Warden Hoe",
+  "item.rpg_ttw.warden_helmet":"Warden Helmet",
+  "item.rpg_ttw.warden_chestplate":"Warden Chestplate",
+  "item.rpg_ttw.warden_leggings":"Warden Leggings",
+  "item.rpg_ttw.warden_boots":"Warden Boots",
+
   "item.rpg_ttw.platinum_sword":"Platinum Sword",
   "item.rpg_ttw.platinum_pickaxe":"Platinum Pickaxe",
   "item.rpg_ttw.platinum_shovel":"Platinum Shovel",
@@ -18,6 +48,19 @@
   "item.rpg_ttw.platinum_leggings":"Platinum Leggings",
   "item.rpg_ttw.platinum_boots":"Platinum Boots",
 
+  "item.rpg_ttw.divinium_sword":"Divinium Sword",
+  "item.rpg_ttw.divinium_pickaxe":"Divinium Pickaxe",
+  "item.rpg_ttw.divinium_shovel":"Divinium Shovel",
+  "item.rpg_ttw.divinium_axe":"Divinium Axe",
+  "item.rpg_ttw.divinium_hoe":"Divinium Hoe",
+  "item.rpg_ttw.divinium_helmet":"Divinium Helmet",
+  "item.rpg_ttw.divinium_chestplate":"Divinium Chestplate",
+  "item.rpg_ttw.divinium_leggings":"Divinium Leggings",
+  "item.rpg_ttw.divinium_boots":"Divinium Boots",
 
-  "itemGroup.rpg_ttw.rpg_ttw": "Myth&Kingdom"
+  "itemGroup.rpg_ttw.rpg_ttw": "Myth&Kingdom",
+
+  "effect.rpg_ttw.LowHealEffect": "Low Heal",
+  "effect.rpg_ttw.AverageHealEffect": "Average Heal",
+  "effect.rpg_ttw.HighHealEffect": "High Heal"
 }

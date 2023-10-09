@@ -15,7 +15,7 @@ public enum ModArmorMaterial implements ArmorMaterial {
 
     //LVL of Armor --> fabric/leather/copper/iron/netherite/dragon/warden/platinum/divinium
 
-    FABRIC("fabric", 5, new int[]{1, 1, 1, 1}, 0, SoundEvents.ITEM_ARMOR_EQUIP_LEATHER, 0.0F, 0.0F, () -> {
+    COPPER("copper", 5, new int[]{1, 1, 1, 1}, 0, SoundEvents.ITEM_ARMOR_EQUIP_LEATHER, 0.0F, 0.0F, () -> {
         return Ingredient.ofItems(new ItemConvertible[]{Items.COPPER_INGOT});
     }),
     DRAGON_SCALE("dragon_scale", 37, new int[]{4, 8, 10, 3}, 15, SoundEvents.ITEM_ARMOR_EQUIP_NETHERITE, 3.5F, 0.2F, () -> {

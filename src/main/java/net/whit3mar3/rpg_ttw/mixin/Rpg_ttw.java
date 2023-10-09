@@ -2,6 +2,7 @@ package net.whit3mar3.rpg_ttw.mixin;
 
 import net.fabricmc.api.ModInitializer;
 import net.whit3mar3.rpg_ttw.item.ModItems;
+import net.whit3mar3.rpg_ttw.potion.ModPotions;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
@@ -12,5 +13,5 @@ public class Rpg_ttw implements ModInitializer {
     public void onInitialize() {
 
         ModItems.registerModItems();
-    }
+        ModPotions.registerPotions();}
 }
