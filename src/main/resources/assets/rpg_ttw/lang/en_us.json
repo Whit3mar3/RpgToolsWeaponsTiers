@@ -7,6 +7,11 @@
   "item.rpg_ttw.warden_shell": "Warden Shell",
   "item.rpg_ttw.warden_crystal": "Warden Crystal",
   "item.rpg_ttw.divinium": "Divinium",
+  "item.rpg_ttw.monster_crystal": "Crystal of Monster",
+
+  "item.rpg_ttw.wooden_shield": "wooden shield mod",
+  "item.rpg_ttw.wooden_shield2": "wooden shield vanilla",
+  "item.rpg_ttw.pink_garnet_shield": "pink garnet shield vanilla",
 
   "item.rpg_ttw.copper_sword":"Copper Sword",
   "item.rpg_ttw.copper_pickaxe":"Copper Pickaxe",
@@ -60,7 +65,10 @@
 
   "itemGroup.rpg_ttw.rpg_ttw": "Myth&Kingdom",
 
-  "effect.rpg_ttw.LowHealEffect": "Low Heal",
-  "effect.rpg_ttw.AverageHealEffect": "Average Heal",
-  "effect.rpg_ttw.HighHealEffect": "High Heal"
+  "effect.rpg_ttw.low_heal": "Low Heal",
+  "effect.rpg_ttw.average_heal": "Average Heal",
+  "effect.rpg_ttw.high_heal": "High Heal",
+  "item.minecraft.potion.effect.low_quality_heal_potion": "Healing Potion (Poor)",
+  "item.minecraft.potion.effect.heal_potion": "Healing Potion (Basic)",
+  "item.minecraft.potion.effect.high_quality_heal_potion": "Healing Potion (Effective)"
 }

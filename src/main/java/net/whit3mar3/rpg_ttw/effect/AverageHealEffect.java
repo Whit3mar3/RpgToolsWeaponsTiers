@@ -11,8 +11,8 @@ public class AverageHealEffect extends StatusEffect {
         super(statusEffectCategory, color);
     }
     @Override
-        public void onApplied(LivingEntity entity, AttributeContainer attributes, int amplifier) {
-            entity.heal(2);
-            super.onApplied(entity, attributes, amplifier);
+        public void onApplied(LivingEntity newentity, AttributeContainer attributes, int amplifier) {
+        newentity.heal(2);
+            super.onApplied(newentity, attributes, amplifier);
         }
     }

@@ -1,6 +1,7 @@
 package net.whit3mar3.rpg_ttw.mixin;
 
 import net.fabricmc.api.ClientModInitializer;
+import net.whit3mar3.rpg_ttw.util.ModModelPredicateProvider;
 
 public class Rpg_ttwClient implements ClientModInitializer {
     /**
@@ -8,6 +9,6 @@ public class Rpg_ttwClient implements ClientModInitializer {
      */
     @Override
     public void onInitializeClient() {
-
+        ModModelPredicateProvider.registerModModels();
     }
 }

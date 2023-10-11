@@ -1,0 +1,6 @@
+{
+  "parent": "rpg_ttw:item/medium_staff",
+  "textures": {
+    "layer0": "rpg_ttw:item/wooden_staff"
+  }
+}

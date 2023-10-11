@@ -7,6 +7,7 @@
   "item.rpg_ttw.warden_shell": "Carapace de Warden",
   "item.rpg_ttw.warden_crystal": "Crystale de Warden",
   "item.rpg_ttw.divinium": "Divinium",
+  "item.rpg_ttw.monster_crystal": "Cristale de Monstre",
 
   "item.rpg_ttw.copper_sword":"Épée en Cuive",
   "item.rpg_ttw.copper_pickaxe":"Pioche en Cuivre",
@@ -49,5 +50,12 @@
   "item.rpg_ttw.platinum_leggings":"Jambière en Platine",
   "item.rpg_ttw.platinum_boots":"Bottes en Platine",
 
-  "itemGroup.rpg_ttw.platinum": "Myth&Kingdom"
+  "itemGroup.rpg_ttw.platinum": "Myth&Kingdom",
+
+  "effect.rpg_ttw.low_heal": "Guérison Médiocre",
+  "effect.rpg_ttw.average_heal": "Guérison Moyenne",
+  "effect.rpg_ttw.high_heal": "Haute Guérison",
+  "item.minecraft.potion.effect.low_quality_heal_potion": "Potion de Guérison (Médiocre)",
+  "item.minecraft.potion.effect.heal_potion": "Potion de Guérison (Basique)",
+  "item.minecraft.potion.effect.high_quality_heal_potion": "Potion de Guérison (Efficace)"
 }
